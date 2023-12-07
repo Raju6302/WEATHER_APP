@@ -1,0 +1,35 @@
+
+
+.day-row {
+    display: flex;
+    flex-direction: row; 
+    align-items:flex-start;
+  }
+  
+  .title {
+    font-size: 18px;
+    margin-bottom: 10px; 
+    color: white;
+    font-weight: 600;
+  }
+  
+  .daily-item {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    padding: 10px; 
+    color: white;
+    margin-left: 40px;
+    margin-top: 20px;
+
+  }
+  
+  .day, .icon-small {
+    margin-bottom: 5px; 
+  }
+  
+ 
+  .day {
+    font-weight: bold; 
+  }
+  

@@ -1,0 +1,15 @@
+
+.login-body {
+    background-color: rgb(30, 80, 125);
+    width: 300px;
+}
+
+.login-title{
+    margin-top: 50px;
+}
+
+.username-input,
+.password-input{
+    margin-bottom: 10px;
+}
+
